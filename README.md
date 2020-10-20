@@ -27,13 +27,13 @@
   </ul>
   <h2>Szablony</h2>
   <div>
-<a href="www/szablony/szablonstrony1.html">
+<a href="szablony/szablonstrony1.html">
 Szablon strony 1
 </a>
-<a href="www/szablony/szablonstrony2.html">
+<a href="szablony/szablonstrony2.html">
 Szablon strony 2
 </a>
-<a href="www/szablony/szablonstrony3.html">
+<a href="szablony/szablonstrony3.html">
 Szablon strony 3
 </a>
   </div>
