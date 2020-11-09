@@ -26,6 +26,9 @@
    <li>
 <a href="linki.html">Linki</a>
    </li>
+   <li>
+<a href="linki.html">linki</a>
+   </li>
   </ul>
   <h2>Szablony</h2>
   <div>
