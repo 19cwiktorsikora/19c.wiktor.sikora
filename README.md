@@ -27,7 +27,7 @@
 <a href="linki.html">Linki</a>
    </li>
    <li>
-<a href="linki.html">linki</a>
+<a href="formularze.html">Formularze</a>
    </li>
   </ul>
   <h2>Szablony</h2>
